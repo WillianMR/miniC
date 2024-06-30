@@ -4,7 +4,7 @@ Repositório para o trabalho da disciplina de Teoria da Computação. Um "compil
 Exemplo de como executar os códigos de teste, da pasta test, no terminal:
 
 ```py
-python run_tests.py <caminho_para_./test>
+python run_tests.py ./test
 ```
 
 ou 
